@@ -1,9 +1,11 @@
 IDEAS RESTful API
 =================
 
+For visual learners, I've created a [YouTube Tutorial](http://www.youtube.com/watch?v=wiGKk3fY9BI) that runs through the steps below.
+
 ### Vanilla Installation Guide
 
-As of this writing. I developed my software on Ubuntu 12.10. It likely does not matter what version of Ubuntu you use as the software dependencies are quite basic. The following steps below have been tested on Ubuntu 12.04, 12.10 and 13.04. I have not testing the installation on other flavors of Linux.
+The installation steps have been tested on Ubuntu 12.04, 12.10 and 13.04. I have not tested the installation on other flavors of Linux. That said, the software dependencies are very basic, so it should be workable on other Linux platforms. 
 
 The following is my "development stack":
 
@@ -14,9 +16,9 @@ The following is my "development stack":
 
 I am making some basic assumptions:
 
-  * The user has installed Ubuntu and is comfortable operating a terminal within Ubuntu.
-  * The user has a stable internet connection, which is required for downloading Ubuntu packages and IDEAS API RESTful software.
-  * The installation should be smooth requiring less than a total of 20 minutes. A longer installation time is likely related to customization of the application.
+  * The user has installed Ubuntu and is comfortable operating a terminal.
+  * The user has a stable internet connection, necessary to download Ubuntu packages and IDEAS API RESTful software.
+  * The installation should be smooth requiring less than 20 minutes. Longer installation times are estimated for customization of the application.
   * Memory and space requirements depends on the complexity of the queries and the size of the underlying data. The user will determine this based on their needs.
 
 
@@ -31,15 +33,15 @@ From this point forward, we will be using our Terminal to begin our installation
 
 ### Installing MySQL
 
-For this project, I use MySQL. I realize there are other databases and a later goal is to support database ORMs such as [SQLAlchemy](http://www.sqlalchemy.org/) to allow easy support of these. If you have a MySQL server on a separate server, a cloud service, etc -- feel free to use that instead. 
+For this project, I use MySQL. If you have your own MySQL server on a separate server, a cloud service, etc -- feel free to use that instead. Note* I realize there are other databases. A later goal is to support database ORMs such as [SQLAlchemy](http://www.sqlalchemy.org/). 
 
-However, if you would like to install the RESTful API on a single server:
+If you would like to install the MySQL on Ubuntu:
 
     sudo apt-get install mysql-server
 
 Follow the steps of the installation and set your default password. For my example, I use the password "toor". When you see "toor", please realize that this is the default password. Your root password is recommended to be different.
 
-Create a database for MySQL which will store the API data. First log into MySQL using your credentials. For those new to MySQL, -u indicates username and -p indicates password.
+Create a database for MySQL which will store the API data. First log into MySQL using your credentials. For those new to MySQL, -u indicates username and -p indicates password. Notice there is a space between -u and the username while there is no space between -p and the password.
 
     mysql -u root -ptoor
 
@@ -78,7 +80,7 @@ Note that if you decide to modify the source code or the configuration files, yo
 
 ### Configuring Flask for Apache2
 
-While there is a more thorough guide about installing Flask with Apache2. It's probably not necessary, but feel free to read about it within the [Flask documentation](http://flask.pocoo.org/docs/deploying/mod_wsgi/).
+Below is a abbreviated guide to deploy Flask for Apache2 so that the Python scripts can be transferred through a web service. Please read the official [Flask documentation](http://flask.pocoo.org/docs/deploying/mod_wsgi/) to gain a more thorough understanding of how to deploy Flask.
 
 The first step is to install the Apache HTTP Server
 
