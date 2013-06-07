@@ -1,0 +1,79 @@
+organization_id,name,street,city,county,state,zipcode,country,latitude,longitude
+100,Institute of Holen,200 California St,San Francisco,San Francisco,CA,94111,USA,37.793584,-122.39903
+101,Institute of Livermore,700 W Highway 287,Lander,Fremont,WY,82520,USA,42.834875,42.834875
+102,Institute of Bartram,6220 S Orange Blossom Trl,Orlando,Orange,FL,32809,USA,28.466834,-81.403263
+103,Institute of Gochenour,286 State St,Perth Amboy,Middlesex,NJ,8861,USA,40.508115,-74.268
+104,Institute of Varona,396 Levesque Blvd,Montreal,,QC,H3B 4W8,CAN,45.501685,-73.567688
+105,Institute of Valadez,1160 Wccs,Homer City,Indiana,PA,15748,USA,40.543401,-79.162257
+106,Institute of Priolo,22661 S Frontage Rd,Channahon,Will,IL,60410,USA,41.471666,-88.193037
+107,Institute of Blackwell,926 E Park Ave,Tallahassee,Leon,FL,32301,USA,30.44202,-84.266021
+108,Institute of Dugan,28 W 27th St,New York,New York,NY,10001,USA,40.7447799,-73.989872
+109,Mcwaters Organization,6030 Greenwood Plaza Blvd,Englewood,Arapahoe,CO,80111,USA,39.607771,-104.898261
+110,University of Blay,1722 White Horse Mercerville R,Trenton,Mercer,NJ,8619,USA,40.222403,-74.688042
+111,University of Fehrenbach,1092 Saint Georges Ave,Rahway,Union,NJ,7065,USA,40.607976,-74.287224
+112,University of Haberman,3916 Horner Ave,Toronto,,ON,M8W 4Y4,CAN,43.603051,-79.539342
+113,University of Beery,645 Church St,Norfolk,Norfolk City,VA,23510,USA,36.852981,-76.280774
+114,University of Gerken,100 Thanet Circ,Trenton,Mercer,NJ,8648,USA,40.291297,-74.722002
+115,University ABX,Pearlridge,Aiea,Honolulu,HI,96701,USA,21.382144,-157.938863
+116,University of Maurice,1418 3rd Ave,New York,New York,NY,10028,USA,40.775349,-73.956742
+117,University of Funches,2656 Princess St,Kingston,,ON,K7L 1C2,CAN,44.236237,-76.499897
+118,University of Burse,3050 rue Saint-Charles,Longueuil,,QC,J4H 1M3,CAN,45.534856,-73.514265
+119,University of Ash,2920 Dry Pine Bay Rd,Killarney,,ON,P0M 2A0,CAN,46.060718,-80.584533
+120,University of Sanchez,280 N Midland Ave,Saddle Brook,Bergen,NJ,7663,USA,40.909726,-74.101799
+121,University of Twigg,3412 St. John Street,Abernethy,,SK,S4P 3Y2,CAN,50.451564,-104.611808
+122,University of Anaya,366 Reserve St,Keene,,ON,K0L 2G0,CAN,44.244734,-78.167844
+123,Institute of Vicente,2810 Jacobs Ave,Eureka,Humboldt,CA,95501,USA,40.804781,-124.136119
+124,Institute of Lilley,1005 Congress Ave,Austin,Travis,TX,78701,USA,30.27206,-97.740949
+125,Institute of Beverage,49 Roche Way,Youngstown,Mahoning,OH,44512,USA,40.997811,-80.664033
+126,Institute of Hyden,1063 Fm Wzzw,Milton,Cabell,WV,25541,USA,38.434532,-82.132364
+127,Institute of Hickson,9617 N Metro Pky W,Phoenix,Maricopa,AZ,85051,USA,33.573647,-112.124689
+128,Institute of Buckley,815 S Glendora Ave,West Covina,Los Angeles,CA,91790,USA,34.060917,-117.932654
+129,Institute of Langenfeld,2551 Robson St,Vancouver,,BC,V6B 3K9,CAN,49.279473,-123.116905
+130,Institute of Kissinger,1102 Main St,Grandview,Jackson,MO,64030,USA,38.889754,-94.532185
+131,Institute of Kaczmarski,14225 Hancock Dr,Anchorage,Anchorage,AK,99515,USA,61.092631,-149.84393
+132,Institute of Irby,3891 Merivale Road,Stittsville,,ON,K2S 1B9,CAN,45.258513,-75.920777
+133,Institute of Lalli,1980 James Street,Burnaby,,BC,V5G 1J9,CAN,49.255101,-123.003475
+134,Institute of Herold,1722 Kennedy Rd,Lindsay,,ON,K9V 4A4,CAN,44.358007,-78.738676
+135,Institute of Wesolowski,2 Horizon Rd  #-2,Fort Lee,Bergen,NJ,7024,USA,40.839041,-73.974048
+136,Institute of Threadgill,1980 James Street,Burnaby,,BC,V5G 1J9,CAN,49.255101,-123.003475
+137,Institute of Both,2255 Kuhio Ave  #-1203,Honolulu,Honolulu,HI,96815,USA,21.279736,-157.82677
+138,Institute of Warn,2202 S Central Ave,Phoenix,Maricopa,AZ,85004,USA,33.42739,-112.074908
+139,Institute of Saterfiel,286 State St,Perth Amboy,Middlesex,NJ,8861,USA,40.508115,-74.268
+140,Institute of Marrs,410 Front St,Brainerd,Crow Wing,MN,56401,USA,46.356544,-94.203232
+141,Marquis Organization,303 N Indian Canyon Dr,Palm Springs,Riverside,CA,92262,USA,33.827013,-116.545984
+142,Donathan Organization,3891 Merivale Road,Stittsville,,ON,K2S 1B9,CAN,45.258513,-75.920777
+143,Darner Organization,1650 S Harbor Blvd,Anaheim,Orange,CA,92802,USA,33.807731,-117.914799
+144,Jan Organization,2135 11th St,Rockford,Winnebago,IL,61104,USA,42.24458,-89.072376
+145,Darcangelo Organization,110 Broadway St,San Antonio,Bexar,TX,78205,USA,29.426773,-98.487596
+146,Statton Organization,511 Kahala,Honolulu,Honolulu,HI,96816,USA,21.269704,-157.786438
+147,Redmon Organization,1535 Hawkins Blvd,El Paso,El Paso,TX,79925,USA,31.791387,-106.371546
+148,Meier Organization,4814 Cte Joyeuse,Lac Bouchette,,QC,H0H 0H0,CAN,48.251398,-72.186114
+149,Burcham Organization,1025 Boulevard Cremazie,Quebec,,QC,G1R 1B8,CAN,46.804226,-71.228471
+150,University of Haralson,2551 Robson St,Vancouver,,BC,V6B 3K9,CAN,49.279473,-123.116905
+151,Winfree Organization,3412 St. John Street,Abernethy,,SK,S4P 3Y2,CAN,50.451564,-104.611808
+152,Tharrington Organization,3 Northern Blvd,Amherst,Hillsborough,NH,3031,USA,42.810149,-71.583485
+153,Ferrier Organization,22343 Se Stark St,Gresham,Multnomah,OR,97030,USA,45.519098,-122.432832
+154,Nakamura Organization,7475 Hamilton Blvd,Trexlertown,Lehigh,PA,18087,USA,40.549834,-75.601944
+155,Bias Organization,3470 2nd Street,Lorette,,MB,R0A 0Y0,CAN,49.739621,-96.874327
+156,Spataro Organization,2753 Scarth Street,Montreal,,QC,S4P 3Y2,CAN,50.451564,-104.611808
+157,Laffey Organization,24907 Tibbitts Aven  #-b,Valencia,Los Angeles,CA,91355,USA,34.433325,-118.568513
+158,Bunt Organization,1201 18th St,Denver,Denver,CO,80202,USA,39.750415,-104.994121
+159,Driskill Organization,343 Bush St Se,Salem,Marion,OR,97302,USA,44.931227,-123.043365
+160,Cutchin Organization,1870 Bridgeport Rd,Orangeville,,ON,L9W 2C8,CAN,43.922086,-80.097663
+161,Perino Organization,4131 11th Ave,Calgary,,AB,T2P 1M6,CAN,51.046301,-114.088683
+162,Lyda Organization,108 Washington St,Keokuk,Lee,IA,52632,USA,40.414181,-91.401681
+163,Ollison Organization,3050 rue Saint-Charles,Longueuil,,QC,J4H 1M3,CAN,45.534856,-73.514265
+164,Ricketts Organization,101 Us Highway 46,Fairfield,Essex,NJ,7058,USA,40.864925,-74.317596
+165,Lavergne Organization,111 W 40th St,New York,New York,NY,10018,USA,40.753887,-73.985719
+166,Caines Organization,3131 N Nimitz Hwy  #-105,Honolulu,Honolulu,HI,96819,USA,21.336225,-157.909649
+167,University of ABC,3508 Leopard St,Corpus Christi,Nueces,TX,78408,USA,27.796945,-97.42776
+168,University of JSH,6715 Tippecanoe Rd,Canfield,Mahoning,OH,44406,USA,41.021997,-80.709975
+169,University of Camburn,101 Royal St,Alexandria,Alexandria City,VA,22314,USA,38.804651,-77.043631
+170,University of Monteleone,2552 Poplar Ave,Memphis,Shelby,TN,38112,USA,35.138159,-89.97545
+171,University of Freudenburg,3437 N 12th Ave,Pensacola,Escambia,FL,32503,USA,30.447766,-87.208118
+172,University of Delahanty,7000 Bass Lake Rd  #-200,Minneapolis,Hennepin,MN,55428,USA,45.055324,-93.369435
+173,University of Max,3470 2nd Street,Lorette,,MB,R0A 0Y0,CAN,49.739621,-96.874327
+174,University of Godbee,3106 rue des ƒglises Est,Belleterre,,QC,J0Z 1L0,CAN,47.381305,-78.680553
+175,University of Gillooly,100 E Broad St,Columbus,Franklin,OH,43215,USA,39.962982,-82.997806
+176,University of Laman,1112 Se 1st St,Evansville,Vanderburgh,IN,47713,USA,37.961282,-87.567115
+177,University of Floyd,3738 N Monroe St,Tallahassee,Leon,FL,32303,USA,30.499564,-84.328527

@@ -1,0 +1,720 @@
+person_id,publication_id,role
+1559,10001,Primary Author
+1603,10001,Co-Author
+1564,10001,Co-Author
+1030,10001,Co-Author
+1044,10002,Primary Author
+1146,10002,Co-Author
+1555,10002,Co-Author
+1300,10002,Co-Author
+1049,10003,Primary Author
+1557,10003,Co-Author
+1507,10003,Co-Author
+1067,10003,Co-Author
+1155,10004,Primary Author
+1006,10004,Co-Author
+1194,10004,Co-Author
+1495,10004,Co-Author
+1600,10004,Co-Author
+1407,10004,Co-Author
+1577,10004,Co-Author
+1053,10004,Co-Author
+1435,10004,Co-Author
+1207,10005,Primary Author
+1437,10005,Co-Author
+1487,10005,Co-Author
+1612,10005,Co-Author
+1023,10005,Co-Author
+1054,10005,Co-Author
+1045,10005,Co-Author
+1208,10005,Co-Author
+1496,10005,Co-Author
+1497,10006,Primary Author
+1099,10006,Co-Author
+1409,10006,Co-Author
+1505,10006,Co-Author
+1218,10006,Co-Author
+1035,10006,Co-Author
+1055,10006,Co-Author
+1268,10006,Co-Author
+1439,10006,Co-Author
+1064,10007,Primary Author
+1043,10007,Co-Author
+1411,10007,Co-Author
+1451,10007,Co-Author
+1221,10007,Co-Author
+1527,10007,Co-Author
+1119,10007,Co-Author
+1442,10007,Co-Author
+1510,10007,Co-Author
+1542,10008,Primary Author
+1050,10008,Co-Author
+1160,10008,Co-Author
+1443,10008,Co-Author
+1065,10008,Co-Author
+1201,10008,Co-Author
+1223,10008,Co-Author
+1255,10008,Co-Author
+1553,10008,Co-Author
+1066,10009,Primary Author
+1266,10009,Co-Author
+1249,10009,Co-Author
+1051,10009,Co-Author
+1552,10009,Co-Author
+1165,10009,Co-Author
+1444,10009,Co-Author
+1243,10009,Co-Author
+1491,10009,Co-Author
+1252,10010,Primary Author
+1302,10010,Co-Author
+1448,10010,Co-Author
+1215,10010,Co-Author
+1124,10010,Co-Author
+1056,10010,Co-Author
+1069,10010,Co-Author
+1282,10010,Co-Author
+1494,10010,Co-Author
+1245,10011,Primary Author
+1073,10011,Co-Author
+1096,10011,Co-Author
+1522,10011,Co-Author
+1002,10011,Co-Author
+1408,10011,Co-Author
+1452,10011,Co-Author
+1267,10011,Co-Author
+1491,10011,Co-Author
+1076,10012,Primary Author
+1100,10012,Co-Author
+1080,10012,Co-Author
+1125,10012,Co-Author
+1545,10012,Co-Author
+1253,10012,Co-Author
+1306,10012,Co-Author
+1459,10012,Co-Author
+1491,10012,Co-Author
+1354,10013,Primary Author
+1604,10013,Co-Author
+1032,10013,Co-Author
+1317,10013,Co-Author
+1188,10013,Co-Author
+1079,10013,Co-Author
+1130,10013,Co-Author
+1258,10013,Co-Author
+1470,10013,Co-Author
+1080,10014,Primary Author
+1358,10014,Co-Author
+1232,10014,Co-Author
+1318,10014,Co-Author
+1413,10014,Co-Author
+1264,10014,Co-Author
+1139,10014,Co-Author
+1219,10014,Co-Author
+1480,10014,Co-Author
+1022,10015,Primary Author
+1289,10015,Co-Author
+1341,10015,Co-Author
+1241,10015,Co-Author
+1546,10015,Co-Author
+1083,10015,Co-Author
+1147,10015,Co-Author
+1148,10015,Co-Author
+1482,10015,Co-Author
+1060,10016,Primary Author
+1394,10017,Primary Author
+1405,10017,Co-Author
+1401,10018,Primary Author
+1397,10018,Co-Author
+1412,10018,Co-Author
+1488,10018,Co-Author
+1428,10018,Co-Author
+1169,10019,Primary Author
+1101,10019,Co-Author
+1270,10019,Co-Author
+1129,10019,Co-Author
+1563,10019,Co-Author
+1193,10019,Co-Author
+1434,10019,Co-Author
+1351,10019,Co-Author
+1493,10019,Co-Author
+1105,10020,Primary Author
+1500,10020,Co-Author
+1569,10020,Co-Author
+1134,10020,Co-Author
+1450,10020,Co-Author
+1357,10020,Co-Author
+1481,10020,Co-Author
+1071,10020,Co-Author
+1171,10020,Co-Author
+1175,10021,Primary Author
+1504,10021,Co-Author
+1117,10021,Co-Author
+1203,10021,Co-Author
+1483,10021,Co-Author
+1549,10021,Co-Author
+1026,10021,Co-Author
+1425,10021,Co-Author
+1571,10021,Co-Author
+1327,10022,Primary Author
+1485,10022,Co-Author
+1216,10022,Co-Author
+1031,10022,Co-Author
+1587,10022,Co-Author
+1402,10022,Co-Author
+1581,10022,Co-Author
+1371,10022,Co-Author
+1429,10022,Co-Author
+1157,10022,Co-Author
+1505,10022,Co-Author
+1112,10022,Co-Author
+1298,10022,Co-Author
+1127,10022,Co-Author
+1212,10022,Co-Author
+1236,10023,Primary Author
+1277,10023,Co-Author
+1494,10023,Co-Author
+1392,10023,Co-Author
+1403,10023,Co-Author
+1506,10023,Co-Author
+1132,10023,Co-Author
+1508,10023,Co-Author
+1594,10023,Co-Author
+1492,10023,Co-Author
+1583,10023,Co-Author
+1489,10023,Co-Author
+1052,10023,Co-Author
+1539,10023,Co-Author
+1423,10023,Co-Author
+1412,10023,Co-Author
+1512,10023,Co-Author
+1485,10023,Co-Author
+1504,10024,Primary Author
+1280,10024,Co-Author
+1057,10024,Co-Author
+1484,10024,Co-Author
+1516,10024,Co-Author
+1507,10024,Co-Author
+1135,10024,Co-Author
+1238,10024,Co-Author
+1514,10024,Co-Author
+1078,10025,Primary Author
+1521,10025,Co-Author
+1543,10025,Co-Author
+1287,10025,Co-Author
+1541,10025,Co-Author
+1137,10025,Co-Author
+1078,10025,Co-Author
+1240,10025,Co-Author
+1520,10025,Co-Author
+1140,10026,Primary Author
+1316,10026,Co-Author
+1251,10026,Co-Author
+1362,10026,Co-Author
+1579,10026,Co-Author
+1093,10026,Co-Author
+1004,10026,Co-Author
+1525,10026,Co-Author
+1609,10026,Co-Author
+1321,10027,Primary Author
+1511,10027,Co-Author
+1102,10027,Co-Author
+1367,10027,Co-Author
+1530,10027,Co-Author
+1141,10027,Co-Author
+1198,10027,Co-Author
+1126,10027,Co-Author
+1262,10027,Co-Author
+1278,10028,Primary Author
+1111,10028,Co-Author
+1284,10028,Co-Author
+1144,10028,Co-Author
+1333,10028,Co-Author
+1016,10028,Co-Author
+1514,10028,Co-Author
+1540,10028,Co-Author
+1061,10029,Primary Author
+1372,10029,Co-Author
+1547,10029,Co-Author
+1113,10029,Co-Author
+1145,10029,Co-Author
+1281,10029,Co-Author
+1365,10029,Co-Author
+1493,10029,Co-Author
+1103,10030,Primary Author
+1118,10030,Co-Author
+1151,10030,Co-Author
+1374,10030,Co-Author
+1382,10030,Co-Author
+1411,10030,Co-Author
+1495,10030,Co-Author
+1558,10030,Co-Author
+1561,10031,Primary Author
+1420,10031,Co-Author
+1610,10031,Co-Author
+1389,10031,Co-Author
+1067,10031,Co-Author
+1110,10031,Co-Author
+1150,10031,Co-Author
+1153,10031,Co-Author
+1398,10032,Primary Author
+1562,10032,Co-Author
+1159,10032,Co-Author
+1073,10032,Co-Author
+1156,10032,Co-Author
+1430,10032,Co-Author
+1088,10032,Co-Author
+1122,10032,Co-Author
+1163,10033,Primary Author
+1195,10033,Co-Author
+1400,10033,Co-Author
+1001,10033,Co-Author
+1486,10033,Co-Author
+1158,10033,Co-Author
+1436,10033,Co-Author
+1568,10033,Co-Author
+1441,10034,Primary Author
+1181,10034,Co-Author
+1199,10034,Co-Author
+1578,10034,Co-Author
+1123,10034,Co-Author
+1164,10034,Co-Author
+1404,10034,Co-Author
+1513,10034,Co-Author
+1167,10035,Primary Author
+1205,10035,Co-Author
+1584,10035,Co-Author
+1276,10035,Co-Author
+1131,10035,Co-Author
+1206,10035,Co-Author
+1406,10035,Co-Author
+1463,10035,Co-Author
+1227,10036,Primary Author
+1478,10036,Co-Author
+1178,10036,Co-Author
+1226,10036,Co-Author
+1458,10036,Co-Author
+1586,10036,Co-Author
+1003,10036,Co-Author
+1416,10036,Co-Author
+1021,10037,Primary Author
+1179,10037,Co-Author
+1418,10037,Co-Author
+1588,10037,Co-Author
+1228,10037,Co-Author
+1229,10037,Co-Author
+1462,10037,Co-Author
+1492,10037,Co-Author
+1506,10038,Primary Author
+1230,10038,Co-Author
+1233,10038,Co-Author
+1502,10038,Co-Author
+1029,10038,Co-Author
+1510,10038,Co-Author
+1180,10038,Co-Author
+1589,10038,Co-Author
+1591,10039,Primary Author
+1560,10039,Co-Author
+1552,10039,Co-Author
+1047,10039,Co-Author
+1182,10039,Co-Author
+1242,10039,Co-Author
+1257,10039,Co-Author
+1528,10039,Co-Author
+1554,10040,Primary Author
+1593,10040,Co-Author
+1532,10040,Co-Author
+1058,10040,Co-Author
+1272,10040,Co-Author
+1566,10040,Co-Author
+1085,10040,Co-Author
+1189,10040,Co-Author
+1259,10040,Co-Author
+1534,10041,Primary Author
+1599,10041,Co-Author
+1388,10041,Co-Author
+1496,10041,Co-Author
+1087,10041,Co-Author
+1261,10041,Co-Author
+1556,10041,Co-Author
+1606,10041,Co-Author
+1484,10041,Co-Author
+1516,10041,Co-Author
+1097,10041,Co-Author
+1370,10041,Co-Author
+1149,10041,Co-Author
+1197,10041,Co-Author
+1295,10041,Co-Author
+1192,10041,Co-Author
+1161,10042,Primary Author
+1320,10042,Co-Author
+1345,10042,Co-Author
+1109,10042,Co-Author
+1107,10042,Co-Author
+1391,10042,Co-Author
+1196,10042,Co-Author
+1275,10042,Co-Author
+1393,10042,Co-Author
+1421,10042,Co-Author
+1536,10042,Co-Author
+1611,10042,Co-Author
+1565,10043,Primary Author
+1538,10043,Co-Author
+1325,10043,Co-Author
+1200,10043,Co-Author
+1515,10043,Co-Author
+1166,10043,Co-Author
+1121,10043,Co-Author
+1288,10043,Co-Author
+1115,10043,Co-Author
+1486,10043,Co-Author
+1089,10043,Co-Author
+1433,10043,Co-Author
+1143,10044,Primary Author
+1460,10044,Co-Author
+1009,10044,Co-Author
+1202,10044,Co-Author
+1304,10044,Co-Author
+1517,10044,Co-Author
+1551,10044,Co-Author
+1308,10045,Primary Author
+1542,10045,Co-Author
+1204,10045,Co-Author
+1498,10045,Co-Author
+1596,10045,Co-Author
+1168,10045,Co-Author
+1020,10045,Co-Author
+1310,10046,Primary Author
+1541,10046,Co-Author
+1209,10046,Co-Author
+1174,10046,Co-Author
+1517,10046,Co-Author
+1544,10046,Co-Author
+1152,10046,Co-Author
+1545,10047,Primary Author
+1523,10047,Co-Author
+1547,10047,Co-Author
+1322,10047,Co-Author
+1176,10047,Co-Author
+1211,10047,Co-Author
+1260,10047,Co-Author
+1557,10048,Primary Author
+1548,10048,Co-Author
+1187,10048,Co-Author
+1334,10048,Co-Author
+1585,10048,Co-Author
+1225,10048,Co-Author
+1285,10048,Co-Author
+1231,10049,Primary Author
+1613,10049,Co-Author
+1551,10049,Co-Author
+1490,10049,Co-Author
+1309,10049,Co-Author
+1319,10049,Co-Author
+1335,10049,Co-Author
+1541,10050,Primary Author
+1355,10050,Co-Author
+1244,10050,Co-Author
+1346,10050,Co-Author
+1190,10050,Co-Author
+1323,10050,Co-Author
+1344,10050,Co-Author
+1248,10051,Primary Author
+1192,10051,Co-Author
+1360,10051,Co-Author
+1542,10051,Co-Author
+1361,10051,Co-Author
+1368,10051,Co-Author
+1384,10051,Co-Author
+1250,10052,Primary Author
+1376,10052,Co-Author
+1543,10052,Co-Author
+1072,10052,Co-Author
+1373,10052,Co-Author
+1386,10052,Co-Author
+1409,10052,Co-Author
+1183,10053,Primary Author
+1385,10053,Co-Author
+1079,10053,Co-Author
+1254,10053,Co-Author
+1410,10053,Co-Author
+1544,10053,Co-Author
+1415,10053,Co-Author
+1548,10054,Primary Author
+1422,10054,Co-Author
+1227,10054,Co-Author
+1387,10054,Co-Author
+1417,10054,Co-Author
+1256,10054,Co-Author
+1545,10054,Co-Author
+1432,10055,Primary Author
+1010,10055,Co-Author
+1263,10055,Co-Author
+1427,10055,Co-Author
+1040,10055,Co-Author
+1390,10055,Co-Author
+1546,10055,Co-Author
+1104,10056,Primary Author
+1547,10056,Co-Author
+1033,10056,Co-Author
+1526,10056,Co-Author
+1265,10056,Co-Author
+1457,10056,Co-Author
+1465,10056,Co-Author
+1269,10057,Primary Author
+1297,10057,Co-Author
+1467,10057,Co-Author
+1403,10057,Co-Author
+1543,10057,Co-Author
+1038,10057,Co-Author
+1461,10057,Co-Author
+1046,10058,Primary Author
+1081,10058,Co-Author
+1069,10058,Co-Author
+1271,10058,Co-Author
+1404,10058,Co-Author
+1464,10058,Co-Author
+1473,10058,Co-Author
+1567,10058,Co-Author
+1068,10059,Primary Author
+1182,10059,Co-Author
+1229,10059,Co-Author
+1273,10059,Co-Author
+1476,10059,Co-Author
+1490,10059,Co-Author
+1524,10059,Co-Author
+1570,10059,Co-Author
+1039,10060,Primary Author
+1075,10060,Co-Author
+1183,10060,Co-Author
+1274,10060,Co-Author
+1496,10060,Co-Author
+1503,10060,Co-Author
+1572,10060,Co-Author
+1070,10061,Primary Author
+1084,10061,Co-Author
+1184,10061,Co-Author
+1279,10061,Co-Author
+1499,10061,Co-Author
+1512,10061,Co-Author
+1605,10061,Co-Author
+1074,10062,Primary Author
+1108,10062,Co-Author
+1185,10062,Co-Author
+1283,10062,Co-Author
+1518,10062,Co-Author
+1553,10062,Co-Author
+1607,10062,Co-Author
+1068,10063,Primary Author
+1077,10063,Co-Author
+1114,10063,Co-Author
+1186,10063,Co-Author
+1286,10063,Co-Author
+1580,10063,Co-Author
+1614,10063,Co-Author
+1075,10064,Primary Author
+1086,10064,Co-Author
+1120,10064,Co-Author
+1187,10064,Co-Author
+1291,10064,Co-Author
+1487,10064,Co-Author
+1582,10064,Co-Author
+1128,10065,Primary Author
+1188,10065,Co-Author
+1292,10065,Co-Author
+1314,10065,Co-Author
+1377,10065,Co-Author
+1490,10065,Co-Author
+1595,10065,Co-Author
+1133,10066,Primary Author
+1189,10066,Co-Author
+1294,10066,Co-Author
+1324,10066,Co-Author
+1381,10066,Co-Author
+1406,10066,Co-Author
+1597,10066,Co-Author
+1173,10067,Primary Author
+1191,10067,Co-Author
+1247,10067,Co-Author
+1296,10067,Co-Author
+1410,10067,Co-Author
+1573,10067,Co-Author
+1602,10067,Co-Author
+1066,10068,Primary Author
+1071,10068,Co-Author
+1091,10068,Co-Author
+1186,10068,Co-Author
+1299,10068,Co-Author
+1419,10068,Co-Author
+1483,10068,Co-Author
+1070,10069,Primary Author
+1077,10069,Co-Author
+1220,10069,Co-Author
+1301,10069,Co-Author
+1328,10069,Co-Author
+1488,10069,Co-Author
+1574,10069,Co-Author
+1494,10070,Primary Author
+1162,10070,Co-Author
+1303,10070,Co-Author
+1431,10070,Co-Author
+1222,10070,Co-Author
+1074,10070,Co-Author
+1495,10070,Co-Author
+1224,10071,Primary Author
+1438,10071,Co-Author
+1575,10071,Co-Author
+1013,10071,Co-Author
+1305,10071,Co-Author
+1549,10071,Co-Author
+1364,10072,Primary Author
+1092,10072,Co-Author
+1307,10072,Co-Author
+1098,10072,Co-Author
+1456,10072,Co-Author
+1555,10072,Co-Author
+1395,10073,Primary Author
+1558,10073,Co-Author
+1312,10073,Co-Author
+1343,10073,Co-Author
+1154,10073,Co-Author
+1106,10073,Co-Author
+1352,10074,Primary Author
+1493,10074,Co-Author
+1315,10074,Co-Author
+1408,10074,Co-Author
+1598,10074,Co-Author
+1338,10074,Co-Author
+1326,10075,Primary Author
+1546,10075,Co-Author
+1447,10075,Co-Author
+1455,10075,Co-Author
+1471,10075,Co-Author
+1576,10075,Co-Author
+1440,10076,Primary Author
+1469,10076,Co-Author
+1466,10076,Co-Author
+1329,10076,Co-Author
+1019,10076,Co-Author
+1036,10076,Co-Author
+1449,10077,Primary Author
+1379,10077,Co-Author
+1468,10077,Co-Author
+1142,10077,Co-Author
+1062,10077,Co-Author
+1331,10077,Co-Author
+1446,10078,Primary Author
+1072,10078,Co-Author
+1337,10078,Co-Author
+1508,10078,Co-Author
+1332,10078,Co-Author
+1472,10078,Co-Author
+1090,10079,Primary Author
+1475,10079,Co-Author
+1340,10079,Co-Author
+1116,10079,Co-Author
+1213,10079,Co-Author
+1246,10079,Co-Author
+1313,10080,Primary Author
+1330,10080,Co-Author
+1477,10080,Co-Author
+1347,10080,Co-Author
+1170,10080,Co-Author
+1380,10080,Co-Author
+1172,10081,Primary Author
+1008,10081,Co-Author
+1350,10081,Co-Author
+1349,10081,Co-Author
+1445,10081,Co-Author
+1511,10081,Co-Author
+1011,10082,Primary Author
+1014,10082,Co-Author
+1217,10082,Co-Author
+1359,10082,Co-Author
+1453,10082,Co-Author
+1544,10082,Co-Author
+1037,10083,Primary Author
+1235,10083,Co-Author
+1342,10083,Co-Author
+1363,10083,Co-Author
+1501,10083,Co-Author
+1550,10083,Co-Author
+1237,10084,Primary Author
+1214,10084,Co-Author
+1601,10084,Co-Author
+1005,10084,Co-Author
+1190,10084,Co-Author
+1366,10084,Co-Author
+1041,10085,Primary Author
+1554,10085,Co-Author
+1239,10085,Co-Author
+1184,10085,Co-Author
+1191,10085,Co-Author
+1234,10085,Co-Author
+1290,10086,Primary Author
+1311,10086,Co-Author
+1492,10086,Co-Author
+1348,10086,Co-Author
+1210,10086,Co-Author
+1405,10086,Co-Author
+1336,10087,Primary Author
+1076,10087,Co-Author
+1407,10087,Co-Author
+1396,10087,Co-Author
+1454,10087,Co-Author
+1590,10087,Co-Author
+1027,10088,Primary Author
+1228,10088,Co-Author
+1339,10088,Co-Author
+1353,10088,Co-Author
+1479,10088,Co-Author
+1592,10088,Co-Author
+1000,10089,Primary Author
+1177,10089,Co-Author
+1230,10089,Co-Author
+1356,10089,Co-Author
+1399,10089,Co-Author
+1509,10089,Co-Author
+1513,10090,Primary Author
+1550,10090,Co-Author
+1369,10090,Co-Author
+1007,10090,Co-Author
+1025,10090,Co-Author
+1034,10090,Co-Author
+1185,10090,Co-Author
+1519,10091,Primary Author
+1414,10091,Co-Author
+1556,10091,Co-Author
+1048,10091,Co-Author
+1012,10091,Co-Author
+1042,10091,Co-Author
+1193,10091,Co-Author
+1529,10092,Primary Author
+1226,10092,Co-Author
+1015,10092,Co-Author
+1081,10092,Co-Author
+1474,10092,Co-Author
+1059,10092,Co-Author
+1424,10092,Co-Author
+1515,10093,Primary Author
+1375,10093,Co-Author
+1426,10093,Co-Author
+1136,10093,Co-Author
+1017,10093,Co-Author
+1063,10093,Co-Author
+1094,10093,Co-Author
+1533,10093,Co-Author
+1608,10094,Primary Author
+1531,10094,Co-Author
+1024,10094,Co-Author
+1138,10094,Co-Author
+1378,10094,Co-Author
+1082,10094,Co-Author
+1018,10094,Co-Author
+1535,10094,Co-Author
+1489,10095,Primary Author
+1028,10095,Co-Author
+1293,10095,Co-Author
+1482,10095,Co-Author
+1095,10095,Co-Author
+1537,10095,Co-Author
+1383,10095,Co-Author
+1509,10095,Co-Author

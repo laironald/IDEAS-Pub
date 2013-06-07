@@ -1,0 +1,7 @@
+build/
+*.sql
+*.py~
+*.md~
+*.csv~
+*.pyc
+err

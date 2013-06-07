@@ -1,0 +1,8 @@
+POP_publication_object,variable,title,
+POP_publication_object,type,text,
+POP_grant_object,variable,title,funding.amount
+POP_grant_object,type,text,double
+POP_organization_object,variable,longitude,
+POP_organization_object,type,double,
+POP_patent_object,variable,title,
+POP_patent_object,type,text,

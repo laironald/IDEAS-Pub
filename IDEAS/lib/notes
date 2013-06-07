@@ -1,0 +1,6 @@
+for sqlparse
+  find and replaced:
+  from sqlparse > from IDEAS.lib.sqlparse
+
+Unix Command
+> find . -name "*.py" -print | xargs sed -i 's/from sqlparse/from IDEAS.lib.sqlparse/g'

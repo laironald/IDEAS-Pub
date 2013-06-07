@@ -1,0 +1,374 @@
+person_id,patent_id,role
+1198,8423873,primary inventor
+1237,8423873,assignee
+1292,8423876,primary inventor
+1569,8423876,co-inventor
+1556,8423876,co-inventor
+1275,8423876,co-inventor
+1212,8423876,co-inventor
+1523,8423876,assignee
+1496,8423876,assignee
+1470,8423876,assignee
+1445,8423876,assignee
+1422,8423876,assignee
+1320,8423876,assignee
+1319,8423879,primary inventor
+1596,8423879,co-inventor
+1568,8423879,co-inventor
+1555,8423879,co-inventor
+1522,8423879,co-inventor
+1291,8423879,co-inventor
+1266,8423879,co-inventor
+1211,8423879,co-inventor
+1495,8423879,assignee
+1469,8423879,assignee
+1444,8423879,assignee
+1421,8423879,assignee
+1290,8423880,primary inventor
+1260,8423880,co-inventor
+1210,8423880,co-inventor
+1595,8423880,assignee
+1546,8423880,assignee
+1521,8423880,assignee
+1494,8423880,assignee
+1468,8423880,assignee
+1443,8423880,assignee
+1420,8423880,assignee
+1347,8423880,assignee
+1310,8423880,assignee
+1289,8423881,primary inventor
+1594,8423881,co-inventor
+1545,8423881,co-inventor
+1520,8423881,co-inventor
+1493,8423881,co-inventor
+1467,8423881,co-inventor
+1442,8423881,co-inventor
+1346,8423881,co-inventor
+1309,8423881,co-inventor
+1259,8423881,assignee
+1209,8423881,assignee
+1486,8423885,primary inventor
+1593,8423885,co-inventor
+1565,8423885,co-inventor
+1544,8423885,co-inventor
+1519,8423885,co-inventor
+1466,8423885,assignee
+1433,8423885,assignee
+1345,8423885,assignee
+1308,8423885,assignee
+1288,8423885,assignee
+1258,8423885,assignee
+1208,8423885,assignee
+1252,8423886,primary inventor
+1280,8423886,co-inventor
+1207,8423886,co-inventor
+1564,8423886,assignee
+1485,8423886,assignee
+1340,8423886,assignee
+1484,8423887,primary inventor
+1563,8423887,co-inventor
+1533,8423887,co-inventor
+1449,8423887,co-inventor
+1339,8423887,assignee
+1279,8423887,assignee
+1251,8423887,assignee
+1206,8423887,assignee
+1483,8423889,primary inventor
+1526,8423889,co-inventor
+1473,8423889,co-inventor
+1448,8423889,co-inventor
+1329,8423889,co-inventor
+1278,8423889,co-inventor
+1250,8423889,co-inventor
+1205,8423889,co-inventor
+1562,8423889,assignee
+1230,8423893,primary inventor
+1419,8423893,co-inventor
+1189,8423893,assignee
+1418,8423898,primary inventor
+1229,8423898,co-inventor
+1188,8423898,co-inventor
+1228,8423900,primary inventor
+1414,8423900,co-inventor
+1187,8423900,co-inventor
+1227,8423903,primary inventor
+1186,8423903,co-inventor
+1413,8423903,assignee
+1399,8423904,primary inventor
+1185,8423904,assignee
+1184,8423905,primary inventor
+1398,8423905,assignee
+1397,8423908,primary inventor
+1183,8423908,co-inventor
+1249,8423909,primary inventor
+1558,8423909,co-inventor
+1525,8423909,co-inventor
+1482,8423909,co-inventor
+1472,8423909,co-inventor
+1447,8423909,co-inventor
+1328,8423909,co-inventor
+1277,8423909,co-inventor
+1204,8423909,co-inventor
+1605,8423909,assignee
+1604,8423909,assignee
+1481,8423911,primary inventor
+1248,8423911,co-inventor
+1203,8423911,co-inventor
+1606,8423911,assignee
+1373,8423917,primary inventor
+1169,8423917,assignee
+1226,8423918,primary inventor
+1370,8423918,co-inventor
+1168,8423918,co-inventor
+1247,8423920,primary inventor
+1609,8423920,co-inventor
+1607,8423920,co-inventor
+1475,8423920,co-inventor
+1202,8423920,co-inventor
+1474,8423921,primary inventor
+1246,8423921,co-inventor
+1201,8423921,co-inventor
+1608,8423921,assignee
+1245,8423922,primary inventor
+1200,8423922,assignee
+1396,8423923,primary inventor
+1175,8423923,assignee
+1174,8423926,primary inventor
+1387,8423926,assignee
+1173,8423927,primary inventor
+1386,8423927,assignee
+1172,8423928,primary inventor
+1385,8423928,assignee
+1171,8423933,primary inventor
+1384,8423933,co-inventor
+1170,8423940,primary inventor
+1383,8423940,co-inventor
+1169,8423941,primary inventor
+1372,8423941,co-inventor
+1168,8423942,primary inventor
+1225,8423942,co-inventor
+1363,8423942,assignee
+1167,8423946,primary inventor
+1592,8423946,co-inventor
+1543,8423946,co-inventor
+1518,8423946,co-inventor
+1460,8423946,co-inventor
+1432,8423946,co-inventor
+1361,8423946,co-inventor
+1298,8423946,co-inventor
+1223,8423946,co-inventor
+1348,8423953,primary inventor
+1541,8423953,co-inventor
+1430,8423953,co-inventor
+1296,8423953,co-inventor
+1216,8423953,co-inventor
+1166,8423953,co-inventor
+1590,8423953,assignee
+1573,8423953,assignee
+1516,8423953,assignee
+1506,8423953,assignee
+1458,8423953,assignee
+1199,8423959,primary inventor
+1238,8423959,co-inventor
+1608,8423964,primary inventor
+1607,8423967,primary inventor
+1606,8423973,primary inventor
+1567,8423976,primary inventor
+1605,8423976,co-inventor
+1566,8423978,primary inventor
+1604,8423978,co-inventor
+1159,8423990,primary inventor
+1585,8423990,co-inventor
+1572,8423990,co-inventor
+1540,8423990,co-inventor
+1515,8423990,co-inventor
+1499,8423990,co-inventor
+1429,8423990,co-inventor
+1295,8423990,co-inventor
+1215,8423990,co-inventor
+1294,8423992,primary inventor
+1214,8423992,co-inventor
+1158,8423992,co-inventor
+1584,8423992,assignee
+1571,8423992,assignee
+1535,8423992,assignee
+1509,8423992,assignee
+1498,8423992,assignee
+1424,8423992,assignee
+1423,8423995,primary inventor
+1583,8423995,co-inventor
+1570,8423995,co-inventor
+1557,8423995,co-inventor
+1534,8423995,co-inventor
+1524,8423995,co-inventor
+1508,8423995,co-inventor
+1497,8423995,co-inventor
+1471,8423995,co-inventor
+1446,8423995,co-inventor
+1327,8423995,co-inventor
+1293,8423995,assignee
+1276,8423995,assignee
+1213,8423995,assignee
+1157,8423995,assignee
+1382,8423998,primary inventor
+1170,8423998,co-inventor
+1169,8424001,primary inventor
+1371,8424001,co-inventor
+1168,8424012,primary inventor
+1362,8424012,co-inventor
+1224,8424012,co-inventor
+1360,8424027,primary inventor
+1167,8424027,primary inventor
+1591,8424027,co-inventor
+1542,8424027,co-inventor
+1459,8424027,co-inventor
+1431,8424027,co-inventor
+1297,8424027,co-inventor
+1217,8424027,co-inventor
+1582,8424027,assignee
+1517,8424027,assignee
+1507,8424027,assignee
+1146,8424028,primary inventor
+1148,8424028,co-inventor
+1147,8424028,co-inventor
+1150,8424028,assignee
+1149,8424028,assignee
+1152,8424029,primary inventor
+1155,8424029,co-inventor
+1154,8424029,co-inventor
+1153,8424029,co-inventor
+1151,8424029,co-inventor
+1145,8424029,assignee
+1139,8424030,primary inventor
+1143,8424030,co-inventor
+1141,8424030,co-inventor
+1144,8424030,assignee
+1142,8424030,assignee
+1140,8424030,assignee
+1138,8424041,primary inventor
+1136,8424043,primary inventor
+1137,8424043,co-inventor
+1135,8424043,co-inventor
+1134,8424043,assignee
+1133,8424043,assignee
+1132,8424043,assignee
+1131,8424043,assignee
+1126,8424045,primary inventor
+1125,8424045,co-inventor
+1122,8424045,co-inventor
+1130,8424045,assignee
+1129,8424045,assignee
+1128,8424045,assignee
+1127,8424045,assignee
+1118,8424049,primary inventor
+1121,8424049,co-inventor
+1120,8424049,co-inventor
+1119,8424049,co-inventor
+1117,8424049,co-inventor
+1106,8424050,primary inventor
+1116,8424050,co-inventor
+1115,8424050,co-inventor
+1114,8424050,co-inventor
+1113,8424050,co-inventor
+1112,8424050,co-inventor
+1111,8424050,co-inventor
+1110,8424050,co-inventor
+1109,8424050,co-inventor
+1108,8424050,co-inventor
+1107,8424050,co-inventor
+1104,8424050,co-inventor
+1103,8424050,co-inventor
+1105,8424050,assignee
+1094,8424056,primary inventor
+1101,8424056,co-inventor
+1100,8424056,co-inventor
+1098,8424056,co-inventor
+1097,8424056,co-inventor
+1095,8424056,assignee
+1085,8424059,primary inventor
+1089,8424059,co-inventor
+1087,8424059,co-inventor
+1086,8424059,co-inventor
+1069,8424061,primary inventor
+1084,8424061,co-inventor
+1083,8424061,co-inventor
+1082,8424061,co-inventor
+1081,8424061,co-inventor
+1077,8424061,co-inventor
+1076,8424061,co-inventor
+1075,8424061,co-inventor
+1074,8424061,co-inventor
+1073,8424061,co-inventor
+1072,8424061,co-inventor
+1071,8424061,co-inventor
+1070,8424061,co-inventor
+1080,8424061,assignee
+1079,8424061,assignee
+1078,8424061,assignee
+1068,8424061,assignee
+1067,8424061,assignee
+1057,8424075,primary inventor
+1065,8424075,co-inventor
+1064,8424075,co-inventor
+1063,8424075,co-inventor
+1066,8424075,assignee
+1062,8424075,assignee
+1061,8424075,assignee
+1060,8424075,assignee
+1049,8424080,primary inventor
+1056,8424080,co-inventor
+1055,8424080,co-inventor
+1054,8424080,co-inventor
+1053,8424080,co-inventor
+1052,8424080,assignee
+1051,8424080,assignee
+1050,8424080,assignee
+1048,8424089,primary inventor
+1043,8424093,primary inventor
+1047,8424093,assignee
+1046,8424093,assignee
+1045,8424093,assignee
+1044,8424093,assignee
+1025,8424094,primary inventor
+1038,8424094,co-inventor
+1037,8424094,co-inventor
+1036,8424094,co-inventor
+1035,8424094,co-inventor
+1042,8424094,assignee
+1041,8424094,assignee
+1040,8424094,assignee
+1039,8424094,assignee
+1034,8424094,assignee
+1033,8424094,assignee
+1032,8424094,assignee
+1031,8424094,assignee
+1030,8424094,assignee
+1029,8424094,assignee
+1028,8424094,assignee
+1027,8424094,assignee
+1026,8424094,assignee
+1024,8424096,primary inventor
+1023,8424096,co-inventor
+1022,8424096,co-inventor
+1021,8424096,co-inventor
+1014,8424101,primary inventor
+1020,8424101,co-inventor
+1019,8424101,co-inventor
+1018,8424101,co-inventor
+1017,8424101,co-inventor
+1016,8424101,co-inventor
+1015,8424101,co-inventor
+1013,8424101,assignee
+1012,8424101,assignee
+1011,8424101,assignee
+1010,8424101,assignee
+1000,8424111,primary inventor
+1001,8424111,co-inventor
+1009,8424111,assignee
+1008,8424111,assignee
+1007,8424111,assignee
+1006,8424111,assignee
+1005,8424111,assignee
+1004,8424111,assignee
+1003,8424111,assignee
+1002,8424111,assignee
