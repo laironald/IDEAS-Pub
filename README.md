@@ -13,13 +13,14 @@ The following is my "development stack":
   * MySQL 5.5
   * Python 2.7
   * Flask 0.9
+  * Apache2
 
 I am making some basic assumptions:
 
   * The user has installed Ubuntu and is comfortable operating a terminal.
   * The user has a stable internet connection, necessary to download Ubuntu packages and IDEAS API RESTful software.
   * The installation should be smooth requiring less than 20 minutes. Longer installation times are estimated for customization of the application.
-  * Memory and space requirements depends on the complexity of the queries and the size of the underlying data. The user will determine this based on their needs.
+  * Memory and space requirements depends on the complexity of the queries and the size of the underlying data. The user will determine this based on their needs. (I have used 3.7GB RAM, 160GB RAM, 32-bit or 64-bit)
 
 
 ### Getting started
